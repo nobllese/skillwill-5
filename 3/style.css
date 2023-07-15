@@ -20,14 +20,14 @@ body {
 
 .app h1 {
     font-size: 25px;
-    color: #001e4d;
+    color: #831e8e;
     font-weight: 600;
     border-bottom: 1px solid #333;
     padding-bottom: 30px;
 }
 
 p {
-    color: #001e4d;
+    color: #949494;
     font-weight: 500;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -38,7 +38,7 @@ p {
 
 .quiz h2 {
     font-size: 18px;
-    color: #001e4d;
+    color: #831e8e;
     font-weight: 600;
 }
 
@@ -57,12 +57,12 @@ p {
 }
 
 .btn:hover:not([disabled]) {
-    background: #222;
+    background: #831e8e;
     color: #fff;
 }
 
 #next-btn {
-    background: #001e4d;
+    background: #222;
     color: #fff;
     font-weight: 500;
     width: 150px;
@@ -76,7 +76,7 @@ p {
 }
 
 #next-btn:hover {
-    background: #222;
+    background: #831e8e;
     color: #fff;
 }
 
